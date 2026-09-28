@@ -25,9 +25,9 @@ const siteConfig = {
   // ── Social Links ────────────────────────────────────
   // Replace the "#" placeholders below with your actual profile URLs
   social: {
-    github: "#",       // e.g. "https://github.com/ayushmaansingh"
-    linkedin: "#",     // e.g. "https://linkedin.com/in/ayushmaansingh"
-    leetcode: "#",     // e.g. "https://leetcode.com/ayushmaansingh"
+    github: "https://github.com/Ayushmaaan-Singh",
+    linkedin: "https://www.linkedin.com/in/ayushmaan-singh-799b98224",
+    leetcode: "https://leetcode.com/u/AyushmaaanSingh/",
   },
 
   // ── Hero ────────────────────────────────────────────
